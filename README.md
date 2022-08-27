@@ -9,7 +9,7 @@ A Simple basic responsive website for entrepreneurs to connect and post anything
 <li>Canva</li>
 
 
-### How it's Made !?
+### How !?
 <br>
 <li>The home page of the website which is completely made with the help of </I>HTML</I> and <I>CSS</I>, as the homepage's UI is inspired with facebook with the touch of a new interface and more astonishing logos which were designed with the help of <I>Canva.</I></li>
 <li>The home page is further divided into 4 sections: 
