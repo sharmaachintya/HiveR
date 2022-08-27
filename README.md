@@ -21,3 +21,7 @@ A Simple basic responsive website for entrepreneurs to connect and post anything
 <li> JavaScript was used in the dropdown menu of the profile also it's used in the button to turn on the dark mode</li>
 
 <li>Profile page is connected with the user profile tab and made responsive everytime, if someone clicks on it</li>
+
+
+## NOTE:
+<li>This is only a front end design, it doesn't involve any back end tools</li>
