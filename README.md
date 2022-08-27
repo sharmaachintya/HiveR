@@ -3,3 +3,6 @@
 A Simple basic responsive website for entrepreneurs to connect and post anything and inspire their connections!
 
 ## Tools Used: 
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
